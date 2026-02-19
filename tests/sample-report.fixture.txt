@@ -1,0 +1,34 @@
+Daily Transformation Trigger Summary — February 19, 2026
+Overview
+• Total PE owned companies scanned: 5 (Travelpro Products, Dessert Holdings, Accell Group, Future Beauty Brands, Cormica)
+• Total signals detected: 5
+• Structural Transformation Triggers: 4
+• Early Intervention / Quiet Signals: 1
+Signal mix
+Trigger Type    Count
+Leadership Change    2
+Underperformance & Guidance Reset    0
+Liquidity & Capital Structure Stress    1
+Strategic Alternatives / Activism    1
+Carve Out / Separation / Spin / Divestiture    0
+Transformation Infrastructure Build Out    0
+Executive / Functional Role Signals    1
+Sponsor Directed Operating Intervention    0
+Commercial Early Warning Signals    0
+Detailed Signal Findings
+Travelpro Products (Owned by: MidOcean Partners) — Travelpro Products Appoints Lori H. Gonzalez as Chief Executive Officer
+• Signal detected: Yes
+• Signal classification: Structural Trigger
+• Primary trigger category: Leadership Change (new CEO)
+• Secondary triggers: None
+• Evidence from source:
+• A release dated February 18, 2026 announced that Travelpro Products appointed Lori H. Gonzalez as Chief Executive Officer, effective Feb 16, 2026[1].
+• MidOcean Partners’ managing director Daniel Penn said Gonzalez is “a proven private equity portfolio CEO with an exceptional track record of transforming consumer brands and building durable, profitable growth”[2].
+• Gonzalez will “lead Travelpro’s next phase of growth” with an emphasis on product innovation, omnichannel expansion and operational excellence[3].
+• MidOcean Partners is described as a “premier New York based alternative asset manager specializing in middle market private equity”[4], and Travelpro appears as a current portfolio company in MidOcean’s private equity portfolio[5].
+• Potential for enterprise transformation: ...
+• Confidence score: 4
+• Merits outreach: Yes
+• Outreach reasoning: ...
+[1] [2] [3] [4] Travelpro Products Appoints Lori H. Gonzalez as Chief Executive Officer
+https://www.prnewswire.com/news-releases/travelpro-products-appoints-lori-h-gonzalez-as-chief-executive-officer-302691796.html
